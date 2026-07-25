@@ -1,0 +1,100 @@
+{
+ "updated": "2026-07-25T14:13:40.112Z",
+ "count": 5,
+ "resources": [
+  {
+   "id": "R0001",
+   "book": "Genesis",
+   "cs": 1,
+   "ce": 2,
+   "type": "video",
+   "title": "In the Beginning - Creation Overview",
+   "source": "Bible Believers Ministries India",
+   "url": "https://www.youtube.com/watch?v=0rlAmyvMMdA&list=PLuJlF9GWrcKHm8NcRW_zOhWc6ZHS_q2Ud",
+   "ss": 0,
+   "es": 0,
+   "body": "The creation of the universe and man",
+   "tags": [
+    "creation",
+    "garden of eden",
+    "adam"
+   ],
+   "sort": 1
+  },
+  {
+   "id": "R0002",
+   "book": "Genesis",
+   "cs": 1,
+   "ce": 2,
+   "type": "video",
+   "title": "In the Beginning - Creation Overview",
+   "source": "Bible Believers Ministries India",
+   "url": "https://www.youtube.com/watch?v=qDaJHwTOrGY&list=PLuJlF9GWrcKHm8NcRW_zOhWc6ZHS_q2Ud&index=2",
+   "ss": 0,
+   "es": 0,
+   "body": "The creation of the universe and man",
+   "tags": [
+    "creation",
+    "garden of eden",
+    "adam"
+   ],
+   "sort": 2
+  },
+  {
+   "id": "R0003",
+   "book": "Genesis",
+   "cs": 1,
+   "ce": 2,
+   "type": "video",
+   "title": "In the Beginning - Creation Overview",
+   "source": "Bible Believers Ministries India",
+   "url": "https://www.youtube.com/watch?v=n1KFL3gf7WU&list=PLuJlF9GWrcKHm8NcRW_zOhWc6ZHS_q2Ud&index=3",
+   "ss": 0,
+   "es": 0,
+   "body": "The creation of the universe and man",
+   "tags": [
+    "creation",
+    "garden of eden",
+    "adam"
+   ],
+   "sort": 3
+  },
+  {
+   "id": "R0004",
+   "book": "Genesis",
+   "cs": 3,
+   "ce": 3,
+   "type": "video",
+   "title": "In the Beginning - The Serpent",
+   "source": "Bible Believers Ministries India",
+   "url": "https://www.youtube.com/watch?v=copWlU2nObY&list=PLuJlF9GWrcKHm8NcRW_zOhWc6ZHS_q2Ud&index=4",
+   "ss": 0,
+   "es": 0,
+   "body": "The serpent",
+   "tags": [
+    "serpent"
+   ],
+   "sort": 1
+  },
+  {
+   "id": "R0005",
+   "book": "Genesis",
+   "cs": 3,
+   "ce": 4,
+   "type": "video",
+   "title": "In the Beginning - Types, Pictures & Prophecies",
+   "source": "Bible Believers Ministries India",
+   "url": "https://www.youtube.com/watch?v=7icAbGt742s&list=PLuJlF9GWrcKHm8NcRW_zOhWc6ZHS_q2Ud&index=5",
+   "ss": 0,
+   "es": 0,
+   "body": "Types, Pictures and Prophesies",
+   "tags": [
+    "adam",
+    "jesus",
+    "christ",
+    "prophecies"
+   ],
+   "sort": 1
+  }
+ ]
+}
